@@ -1,0 +1,76 @@
+﻿@page "/login"
+
+﻿
+
+<h3>Login</h3>
+
+@if (ShowAuthError)
+{
+    <div class="alert alert-danger" role="alert">
+        <p>@Error</p>
+    </div>
+}
+
+
+<EditForm Model="_userLoginModel" OnValidSubmit="ExecuteLogin" class="card card-body bg-light mt-5">
+    <DataAnnotationsValidator /> 
+
+   
+
+    <div class="form-group">
+        <div class="input-group mb-3">
+            <span class="input-group-text"> 
+                <Icon Name="Blazorise.Icons.FontAwesome.FontAwesomeIcons.Lock" />
+           </span> 
+            <InputText id="Email" class="form-control" @bind-Value="_userLoginModel.Email" placeholder="Email Address" />
+        </div>
+          <ValidationMessage For="@(() => _userLoginModel.Email!)" />
+    </div>   
+
+    <div class="form-group">
+        <div class="input-group mb-3">
+            <span class="input-group-text">
+                <Icon Name="Blazorise.Icons.FontAwesome.FontAwesomeIcons.Voicemail" />
+            </span>
+            <InputText type="password" id="password" class="form-control" @bind-Value="_userLoginModel.Password" placeholder="Password" />
+        </div>
+        <ValidationMessage For="@(() => _userLoginModel.Password!)" />
+    </div>
+    <div class="form-group">   
+        <Check TValue="bool" @bind-Checked="_userLoginModel.RememberMe">Remember Me</Check>
+    </div> 
+
+    <div class="form-group">
+        <div class="d-grid gap-2" style="margin-top:10px">
+            <button type="submit" class="btn btn-primary">Log in</button>
+        </div>
+    </div>
+</EditForm>
+
+@code {
+    private UserLoginModel _userLoginModel = new UserLoginModel();
+
+    [Inject]
+    public IAuthenticationService AuthenticationService { get; set; }
+    [Inject]
+    public NavigationManager NavigationManager { get; set; }
+    public bool ShowAuthError { get; set; }
+    public string Error { get; set; }
+
+    public async Task ExecuteLogin()
+    {
+        ShowAuthError = false;
+
+        var result = await AuthenticationService.Login(_userLoginModel);
+        if (!result.IsAuthSuccessful)
+        {
+            Error = result.ErrorMessage;
+            ShowAuthError = true;
+        }
+        else
+        {
+            NavigationManager.NavigateTo("/");
+        }
+    }
+
+}

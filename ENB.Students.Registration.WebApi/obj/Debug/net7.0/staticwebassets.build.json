@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ihzC/8t5cg3bRxExawsElx5IHtBtYv2iph4ooV7tO5U=",
+  "Source": "ENB.Students.Registration.WebApi",
+  "BasePath": "_content/ENB.Students.Registration.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

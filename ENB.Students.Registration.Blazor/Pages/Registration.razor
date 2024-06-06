@@ -1,0 +1,93 @@
+﻿@page "/registration"
+
+
+<h3>Registration</h3>
+
+@if (ShowRegistrationErros)
+{
+    <div class="alert alert-danger" role="alert">
+        @foreach (var error in Errors)
+        {
+            <p>@error</p>
+        }
+    </div>
+}
+
+<EditForm Model="@_userForRegistration" OnValidSubmit="Register" class="card card-body bg-light mt-5">
+      <DataAnnotationsValidator  />  
+    
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="FirstName">FirstName</label>
+                <InputText id="FirstName" class="form-control" @bind-Value="_userForRegistration.FirstName" />
+                <ValidationMessage For="@(() => _userForRegistration.FirstName)" />
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="LastName">LastName</label>
+                <InputText id="LastName" class="form-control" @bind-Value="_userForRegistration.LastName" />
+                <ValidationMessage For="@(() => _userForRegistration.LastName)" />
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="email" >Email:</label>       
+            <InputText id="email" class="form-control" @bind-Value="_userForRegistration.Email" />
+            <ValidationMessage For="@(() => _userForRegistration.Email)" />        
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="password">Password</label>
+                <InputText type="password" id="password" class="form-control" @bind-Value="_userForRegistration.Password" />
+                <ValidationMessage For="@(() => _userForRegistration.Password)" />
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="ConfirmPassword">Confirm Password</label>
+                <InputText type="password" id="confirm" class="form-control" @bind-Value="_userForRegistration.ConfirmPassword" />
+                <ValidationMessage For="@(() => _userForRegistration.ConfirmPassword)" />
+            </div>
+        </div>
+
+    </div>
+
+        <div class="d-grid gap-2" style="margin-top:10px">
+            <button type="submit" class="btn btn-primary">Register</button>
+        </div>
+
+    
+</EditForm>
+
+@code {
+
+    private UserRegistrationModel _userForRegistration = new UserRegistrationModel();
+
+    [Inject]
+    public IAuthenticationService AuthenticationService { get; set; }
+    [Inject]
+    public NavigationManager NavigationManager { get; set; }
+    public bool ShowRegistrationErros { get; set; }
+    public IEnumerable<string> Errors { get; set; }
+
+    public async Task Register()
+    {
+        ShowRegistrationErros = false;
+
+        var result = await AuthenticationService.RegisterUser(_userForRegistration);
+        if (!result.IsSuccessfulRegistration)
+        {
+            Errors = result.Errors;
+            ShowRegistrationErros = true;
+        }
+        else
+        {
+            NavigationManager.NavigateTo("/");
+        }
+    }
+
+}

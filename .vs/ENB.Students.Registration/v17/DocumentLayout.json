@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Devsource\\ENB.Students.Registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22254D7B-26AB-4831-8103-09741BE3D6FB}|ENB.Students.Registration.Mvc\\ENB.Students.Registration.Mvc.csproj|e:\\devsource\\enb.students.registration\\enb.students.registration.mvc\\controllers\\academicyearcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22254D7B-26AB-4831-8103-09741BE3D6FB}|ENB.Students.Registration.Mvc\\ENB.Students.Registration.Mvc.csproj|solutionrelative:enb.students.registration.mvc\\controllers\\academicyearcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22254D7B-26AB-4831-8103-09741BE3D6FB}|ENB.Students.Registration.Mvc\\ENB.Students.Registration.Mvc.csproj|e:\\devsource\\enb.students.registration\\enb.students.registration.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22254D7B-26AB-4831-8103-09741BE3D6FB}|ENB.Students.Registration.Mvc\\ENB.Students.Registration.Mvc.csproj|solutionrelative:enb.students.registration.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22254D7B-26AB-4831-8103-09741BE3D6FB}|ENB.Students.Registration.Mvc\\ENB.Students.Registration.Mvc.csproj|e:\\devsource\\enb.students.registration\\enb.students.registration.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22254D7B-26AB-4831-8103-09741BE3D6FB}|ENB.Students.Registration.Mvc\\ENB.Students.Registration.Mvc.csproj|solutionrelative:enb.students.registration.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22254D7B-26AB-4831-8103-09741BE3D6FB}|ENB.Students.Registration.Mvc\\ENB.Students.Registration.Mvc.csproj|e:\\devsource\\enb.students.registration\\enb.students.registration.mvc\\views\\academicyear\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22254D7B-26AB-4831-8103-09741BE3D6FB}|ENB.Students.Registration.Mvc\\ENB.Students.Registration.Mvc.csproj|solutionrelative:enb.students.registration.mvc\\views\\academicyear\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ENB.Students.Registration.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ENB.Students.Registration.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T08:30:31.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "ENB.Students.Registration.Mvc\\Program.cs",
+              "ToolTip": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\Program.cs",
+              "RelativeToolTip": "ENB.Students.Registration.Mvc\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:37:50.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcademicYearController.cs",
+              "DocumentMoniker": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\Controllers\\AcademicYearController.cs",
+              "RelativeDocumentMoniker": "ENB.Students.Registration.Mvc\\Controllers\\AcademicYearController.cs",
+              "ToolTip": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\Controllers\\AcademicYearController.cs",
+              "RelativeToolTip": "ENB.Students.Registration.Mvc\\Controllers\\AcademicYearController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:31:26.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\Views\\AcademicYear\\Index.cshtml",
+              "RelativeDocumentMoniker": "ENB.Students.Registration.Mvc\\Views\\AcademicYear\\Index.cshtml",
+              "ToolTip": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\Views\\AcademicYear\\Index.cshtml",
+              "RelativeToolTip": "ENB.Students.Registration.Mvc\\Views\\AcademicYear\\Index.cshtml",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAMgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T13:26:29.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

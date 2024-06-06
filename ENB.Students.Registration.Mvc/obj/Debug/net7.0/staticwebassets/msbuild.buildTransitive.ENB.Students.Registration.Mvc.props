@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ENB.Students.Registration.Mvc.props" />
+</Project>

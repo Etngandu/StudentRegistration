@@ -1,0 +1,1425 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ENB.Students.Registration.Mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ENB.Students.Registration.Mvc.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\Images\\StudentRegistration.png",
+      "PackagePath": "staticwebassets\\Images\\StudentRegistration.png"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap5.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bulma.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bulma.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bulma.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.bulma.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.dataTables.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.foundation.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.semanticui.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\buttons.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\common.scss",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\common.scss"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\css\\mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\css\\mixins.scss"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap5.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap5.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bulma.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bulma.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bulma.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.bulma.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.dataTables.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.foundation.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.print.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.semanticui.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\buttons.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Buttons-2.3.6\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Buttons-2.3.6\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap5.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bulma.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bulma.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bulma.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.bulma.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.dataTables.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.foundation.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.semanticui.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\buttons.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\common.scss",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\common.scss"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\css\\mixins.scss"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap5.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap5.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bulma.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bulma.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bulma.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.bulma.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.dataTables.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.foundation.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.print.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.semanticui.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\buttons.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\Buttons-2.3.6\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\images\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\images\\sort_both.png"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\images\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\pdfmake.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\DataTables-1.13.4\\js\\vfs_fonts.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\datatables.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\datatables.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\datatables.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\datatables.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\datatables.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\Datatable1.13\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\Datatable1.13\\datatables.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\css\\datatable-bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable-bootstrap.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\css\\datatable-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\css\\datatable.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\css\\datatable.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\datatables.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\datatables.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\datatables.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\datatables.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\datatables.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\datatables.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\img\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\img\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_both.png"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\img\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\jQuery-3.6.0\\jquery-3.6.0.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\jQuery-3.6.0\\jquery-3.6.0.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\jQuery-3.6.0\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\jQuery-3.6.0\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\js\\datatable.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.jquery.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\js\\datatable.jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.jquery.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\js\\datatable.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\datatable\\js\\datatable.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales-all.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales-all.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales-all.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales-all.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\af.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\af.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-dz.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-dz.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-kw.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-kw.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-ly.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-ly.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-ma.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-ma.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-sa.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-sa.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-tn.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-tn.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\bg.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\bs.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ca.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\cs.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\da.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\da.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\de.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\de.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\el.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\el.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\en-au.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\en-gb.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\en-nz.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\en-nz.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\es-us.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\es-us.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\es.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\es.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\et.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\et.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\eu.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\fa.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\fi.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\fr-ca.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\fr-ch.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\fr-ch.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\fr.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\gl.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\he.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\he.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\hi.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\hr.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\hu.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\id.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\id.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\is.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\is.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\it.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\it.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ja.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ka.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\kk.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ko.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\lb.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\lb.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\lt.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\lv.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\mk.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ms.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\nb.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\nl.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\nn.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\nn.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\pl.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\pt-br.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\pt.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ro.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ru.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sk.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sl.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sq.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sr-cyrl.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sr.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sv.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\th.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\th.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\tr.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\uk.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\vi.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\zh-cn.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\locales\\zh-tw.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\zh-tw.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\main.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\core\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\daygrid\\main.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\daygrid\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\daygrid\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\daygrid\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\google-calendar\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\google-calendar\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\google-calendar\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\google-calendar\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\interaction\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\interaction\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\interaction\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\interaction\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\list\\main.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\list\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\list\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\list\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\luxon\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\luxon\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\luxon\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\luxon\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\moment-timezone\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment-timezone\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\moment-timezone\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment-timezone\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\moment\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\moment\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\rrule\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\rrule\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\rrule\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\rrule\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\timegrid\\main.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\timegrid\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\timegrid\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.min.css"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\fullcalendar\\timegrid\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Devsource\\ENB.Students.Registration\\ENB.Students.Registration.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ENB.Students.Registration.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ENB.Students.Registration.Mvc.props",
+      "PackagePath": "build\\ENB.Students.Registration.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ENB.Students.Registration.Mvc.props",
+      "PackagePath": "buildMultiTargeting\\ENB.Students.Registration.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ENB.Students.Registration.Mvc.props",
+      "PackagePath": "buildTransitive\\ENB.Students.Registration.Mvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
